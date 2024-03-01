@@ -1,0 +1,53 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: contact
+    url: contact
+
+  - title: rss
+    url: feed.xml
+
+project_entries:
+
+  - title: coconut
+    url: https://github.com/jaiden6/coconut
+    desc: Esoteric programming language made of emojis.
+
+  - title: flora
+    url: https://github.com/jaiden6/flora
+    desc: Health tracking app with a cute Tamagotchi.
+    highlight: WIP
+
+  - title: processSim
+    url: https://github.com/jaiden6/processSim
+    desc: Command-line tool to spin off Python functions into processes.
+
+old_project_entries:
+  - title: Example
+    url: https://example.com
+    desc: Sample old project.
+    highlight: NEW
+
+footer_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: contact
+    url: contact
+
+  - title: rss
+    url: feed.xml
+
+misc_entries:
+  - title: Git and Github, a seminar I gave at Troy University.
+    url: gitAndGitHub.pdf
+
+  - title: Introduction to Linux, another seminar I gave at Troy.
+    url: linux.pdf
