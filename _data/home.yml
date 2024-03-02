@@ -13,23 +13,31 @@ navbar_entries:
 
 project_entries:
 
+  - title: shopsoft
+    url: https://github.com/jaiden6/shopsoft
+    desc: Mock ecommerce web application.
+
   - title: coconut
     url: https://github.com/jaiden6/coconut
     desc: Esoteric programming language made of emojis.
-    highlight: HACKATHON
-
-  - title: flora
-    url: https://github.com/jaiden6/flora
-    desc: Health tracking app with a cute Tamagotchi.
     highlight: HACKATHON
 
   - title: processSim
     url: https://github.com/jaiden6/processSim
     desc: Command-line tool to spin off Python functions into processes.
 
-  - title: shopsoft
-    url: https://github.com/jaiden6/shopsoft
-    desc: Ecommerce web application.
+  - title: flora
+    url: https://github.com/jaiden6/flora
+    desc: Health tracking app with a cute Tamagotchi.
+    highlight: HACKATHON
+
+  - title: shrub
+    url: https://github.com/jaiden6/shrub
+    desc: Java port of the flora health tracker.
+
+  - title: encrypter
+    url: https://github.com/jaiden6/encrypter
+    desc: A GUI implementation of the Caesar, Hill, and DES ciphers.
 
 old_project_entries:
   - title: Example
