@@ -16,15 +16,20 @@ project_entries:
   - title: coconut
     url: https://github.com/jaiden6/coconut
     desc: Esoteric programming language made of emojis.
+    highlight: HACKATHON
 
   - title: flora
     url: https://github.com/jaiden6/flora
     desc: Health tracking app with a cute Tamagotchi.
-    highlight: WIP
+    highlight: HACKATHON
 
   - title: processSim
     url: https://github.com/jaiden6/processSim
     desc: Command-line tool to spin off Python functions into processes.
+
+  - title: shopsoft
+    url: https://github.com/jaiden6/shopsoft
+    desc: Ecommerce web application.
 
 old_project_entries:
   - title: Example
