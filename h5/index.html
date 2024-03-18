@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<link rel="stylesheet" href="style.css">
+		<script src="script.js"></script>
+		<title>H5 Dice Roller</title>
+	</head>
+	<body>
+		<h1>Hunter: the Reckoning Dice Roller</h1>
+		<p>Dice Pool:</p>
+		<button onclick="if(parseInt(pool.innerText) != 1){pool.innerText = parseInt(pool.innerText) - 1;}"><strong>-</strong></button> <h2 id="pool">1</h2> <button onclick="pool.innerText = parseInt(pool.innerText) + 1;"><strong>+</strong></button>
+		<p>Desperation Level:</p>
+		<button onclick="if(parseInt(desperation.innerText) != 1){desperation.innerText = parseInt(desperation.innerText) - 1;}"><strong>-</strong></button> <h2 id="desperation">1</h2> <button onclick="if(parseInt(desperation.innerText) != 5){desperation.innerText = parseInt(desperation.innerText) + 1;}"><strong>+</strong></button>
+		<br><br><label for="applyDesperation">Apply Desperation? </label><input type="checkbox" id="applyDesperation">
+		<br><br><button onclick="displayRoll()">Roll</button><br><br>
+		<table id="resultsTable"></table>
+		<p id="resultsText"></p>
+		<footer>
+			<a href="https://www.paradoxinteractive.com/games/world-of-darkness/community/dark-pack-agreement">
+				<img src="https://images.ctfassets.net/u73tyf0fa8v1/3oBTHBZk9XmfcBlUPylvFh/673e4a6b14566548c03424ddf627b944/darkpack_logo2.png" alt="Dark Pack logo" width="100">
+			</a>
+			<p>Portions of the materials are the copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information please visit worldofdarkness.com.</p>
+		</footer>
+	</body>
+</html>

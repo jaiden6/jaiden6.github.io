@@ -1,0 +1,35 @@
+body{
+	text-align: center;
+	background-color: black;
+	font-family: FreeMono, monospace;
+	font-size: 1.5em;
+	color: white;
+}
+h1{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: orange;
+}
+h2{
+	display: inline;
+}
+button{
+	width: 10em;
+	height: 5em;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+footer{
+	text-align: end;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	z-index: -1;
+}
+.icon{
+	width: auto;
+	height: 3em;
+	filter: invert(1);
+	padding: 0.5em;
+}
