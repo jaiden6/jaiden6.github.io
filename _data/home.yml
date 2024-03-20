@@ -26,6 +26,10 @@ project_entries:
     url: https://github.com/jaiden6/processSim
     desc: Command-line tool to spin off Python functions into processes.
 
+  - title: H5 Dice Roller
+    url: h5/
+    desc: "The only online dice rolling application for the tabletop game Hunter: the Reckoning 5th Edition."
+
   - title: flora
     url: https://github.com/jaiden6/flora
     desc: Health tracking app with a cute Tamagotchi.
@@ -34,10 +38,6 @@ project_entries:
   - title: shrub
     url: https://github.com/jaiden6/shrub
     desc: Java port of the flora health tracker.
-
-  - title: encrypter
-    url: https://github.com/jaiden6/encrypter
-    desc: A GUI implementation of the Caesar, Hill, and DES ciphers.
 
 old_project_entries:
   - title: Example
