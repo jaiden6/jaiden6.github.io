@@ -28,7 +28,7 @@ project_entries:
 
   - title: H5 Dice Roller
     url: h5/
-    desc: "The only online dice rolling application for the tabletop game Hunter: the Reckoning 5th Edition."
+    desc: "The only online dice rolling application for Hunter: the Reckoning 5th Edition."
 
   - title: flora
     url: https://github.com/jaiden6/flora
