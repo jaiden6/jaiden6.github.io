@@ -53,7 +53,7 @@ footer_entries:
     url: blog
 
   - title: contact
-    url: contact
+    url: https://docs.google.com/forms/d/e/1FAIpQLSco_eK-DtPA2-ZW-K1XIiBNkzEZru16JWwGbteuUAlQgEt6fw/viewform
 
   - title: rss
     url: feed.xml
