@@ -2,14 +2,14 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
+#  - title: blog
+#    url: blog
 
   - title: contact
     url: https://docs.google.com/forms/d/e/1FAIpQLSco_eK-DtPA2-ZW-K1XIiBNkzEZru16JWwGbteuUAlQgEt6fw/viewform
 
-  - title: rss
-    url: feed.xml
+#  - title: rss
+#    url: feed.xml
 
 project_entries:
 
@@ -39,24 +39,24 @@ project_entries:
     url: https://github.com/jaiden6/shrub
     desc: Java port of the flora health tracker.
 
-old_project_entries:
-  - title: Example
-    url: https://example.com
-    desc: Sample old project.
-    highlight: NEW
+#old_project_entries:
+#  - title: Example
+#    url: https://example.com
+#    desc: Sample old project.
+#    highlight: NEW
 
 footer_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
+#  - title: blog
+#    url: blog
 
   - title: contact
     url: https://docs.google.com/forms/d/e/1FAIpQLSco_eK-DtPA2-ZW-K1XIiBNkzEZru16JWwGbteuUAlQgEt6fw/viewform
 
-  - title: rss
-    url: feed.xml
+#  - title: rss
+#    url: feed.xml
 
 misc_entries:
   - title: Git and Github, a seminar I gave at Troy University.
